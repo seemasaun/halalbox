@@ -1,4 +1,4 @@
-export const DOMAIN = 'http://192.168.1.111:3000';
+export const DOMAIN = 'http://<system-ip>:3000'; //replace system IP
 
 export const REQUEST_PATH = {
   LIST_PATH: '/chicken',
