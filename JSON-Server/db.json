@@ -1,0 +1,46 @@
+{
+  "chicken": [
+    {
+      "id": 1,
+      "name": "Chicken Boneless Cut",
+      "quantity": "500 gms",
+      "price": "179",
+      "image_link": "https://ik.imagekit.io/iwcam3r8ka/prod/products/202009/a7e6d20d-5b87-4a5b-82bd-7484df0c3574.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Chicken Liver",
+      "quantity": "500 gms",
+      "price": "85",
+      "image_link": "https://ik.imagekit.io/iwcam3r8ka/prod/products/202009/a81c6e7f-1ea3-4c0e-9ac2-c201425ea7e7.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Chicken Whole (Skinless)",
+      "quantity": "1 kg",
+      "price": "250",
+      "image_link": "https://ik.imagekit.io/iwcam3r8ka/prod/products/202009/a67bb024-e12c-4644-842e-ddf6c8feeb17.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Chicken Breast Boneless (Whole)",
+      "quantity": "500 gms",
+      "price": "179",
+      "image_link": "https://ik.imagekit.io/iwcam3r8ka/prod/products/202009/53717c07-bc65-4dcf-ae23-6dd6f13277ba.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Chicken Lollipop",
+      "quantity": "12 pieces",
+      "price": "148",
+      "image_link": "https://ik.imagekit.io/iwcam3r8ka/prod/products/202102/8efa53d2-bba9-4fe1-99d0-a95aba7002bb.JPG"
+    },
+    {
+      "id": 6,
+      "name": "Chicken Curry Cut",
+      "quantity": "500 gms",
+      "price": "119",
+      "image_link": "https://ik.imagekit.io/iwcam3r8ka/prod/products/202008/7a2997f2-686c-472f-995d-b4121d6c4a28.jpg"
+    }
+  ]
+}
